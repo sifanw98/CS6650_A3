@@ -1,0 +1,6 @@
+#surefire_2
+#Mon Oct 09 17:33:16 PDT 2023
+basedir=/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client
+localRepository=/Users/sifanwei/.m2/repository
+loggerPath=conf/log4j.properties
+user.dir=/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client

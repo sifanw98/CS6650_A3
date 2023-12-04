@@ -1,0 +1,10 @@
+com/albumstore/bean/Review.class
+com/albumstore/bean/ImageMetaData.class
+com/albumstore/bean/ErrorMsg.class
+com/albumstore/servlet/AlbumApiServlet.class
+com/albumstore/bean/Album.class
+com/albumstore/util/ReviewConsumer.class
+com/albumstore/util/DatabaseUtil.class
+com/albumstore/config/RabbitMQConfig.class
+com/albumstore/bean/ApiResponse.class
+com/albumstore/util/JSONUtility.class

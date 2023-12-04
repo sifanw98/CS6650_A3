@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa3f82cb-8599-4697-9dcf-5ff3271603ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/.idea/libraries/Maven__software_aws_rds_aws_mysql_jdbc_1_1_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/.idea/artifacts/albumstore_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/.idea/artifacts/albumstore_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/.idea/libraries/Maven__commons_io_commons_io_2_11_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/.idea/libraries/Maven__commons_io_commons_io_2_8_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/albumstore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/albumstore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/src/main/java/com/albumstore/servlet/AlbumApiServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/src/main/java/com/albumstore/servlet/AlbumApiServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/src/main/java/com/albumstore/util/DatabaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/src/main/java/com/albumstore/util/DatabaseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore.war" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore/WEB-INF/classes/com/albumstore/bean/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore/WEB-INF/classes/com/albumstore/bean/Album.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore/WEB-INF/classes/com/albumstore/bean/ApiResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore/WEB-INF/classes/com/albumstore/bean/ApiResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore/WEB-INF/classes/com/albumstore/bean/ErrorMsg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore/WEB-INF/classes/com/albumstore/bean/ErrorMsg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore/WEB-INF/classes/com/albumstore/bean/ImageMetaData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore/WEB-INF/classes/com/albumstore/bean/ImageMetaData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore/WEB-INF/classes/com/albumstore/servlet/AlbumApiServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore/WEB-INF/classes/com/albumstore/servlet/AlbumApiServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore/WEB-INF/classes/com/albumstore/util/DatabaseUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore/WEB-INF/classes/com/albumstore/util/DatabaseUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore/WEB-INF/classes/com/albumstore/util/JSONUtility.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore/WEB-INF/classes/com/albumstore/util/JSONUtility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore/WEB-INF/classes/org/example/ConnectionUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/albumstore/WEB-INF/lib/commons-io-2.11.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/classes/com/albumstore/bean/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/classes/com/albumstore/bean/Album.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/classes/com/albumstore/bean/ApiResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/classes/com/albumstore/bean/ApiResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/classes/com/albumstore/bean/ErrorMsg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/classes/com/albumstore/bean/ErrorMsg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/classes/com/albumstore/bean/ImageMetaData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/classes/com/albumstore/bean/ImageMetaData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/classes/com/albumstore/servlet/AlbumApiServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/classes/com/albumstore/servlet/AlbumApiServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/classes/com/albumstore/util/DatabaseUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/classes/com/albumstore/util/DatabaseUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/classes/com/albumstore/util/JSONUtility.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/classes/com/albumstore/util/JSONUtility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../AlbumStoreAPI_maven/albumstore/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Z1ZSEoxOTrehg5oT4ESpdlrDyM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/sifanwei/Desktop/A3/A3-client",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa3f82cb-8599-4697-9dcf-5ff3271603ad" name="Changes" comment="" />
+      <created>1701591545591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701591545591</updated>
+      <workItem from="1701591552881" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

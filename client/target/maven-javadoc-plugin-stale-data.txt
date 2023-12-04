@@ -1,0 +1,86 @@
+/usr/local/opt/openjdk/libexec/openjdk.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-classpath
+'/Users/sifanwei/.m2/repository/io/swagger/core/v3/swagger-annotations/2.0.0/swagger-annotations-2.0.0.jar:/Users/sifanwei/.m2/repository/com/squareup/okhttp/okhttp/2.7.5/okhttp-2.7.5.jar:/Users/sifanwei/.m2/repository/com/squareup/okio/okio/1.6.0/okio-1.6.0.jar:/Users/sifanwei/.m2/repository/com/squareup/okhttp/logging-interceptor/2.7.5/logging-interceptor-2.7.5.jar:/Users/sifanwei/.m2/repository/com/google/code/gson/gson/2.8.1/gson-2.8.1.jar:/Users/sifanwei/.m2/repository/io/gsonfire/gson-fire/1.8.3/gson-fire-1.8.3.jar:/Users/sifanwei/.m2/repository/org/threeten/threetenbp/1.3.5/threetenbp-1.3.5.jar:/Users/sifanwei/.m2/repository/javax/xml/bind/jaxb-api/2.2.11/jaxb-api-2.2.11.jar:/Users/sifanwei/.m2/repository/com/sun/xml/bind/jaxb-core/2.2.11/jaxb-core-2.2.11.jar:/Users/sifanwei/.m2/repository/com/sun/xml/bind/jaxb-impl/2.2.11/jaxb-impl-2.2.11.jar:/Users/sifanwei/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/sifanwei/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/src/main/java:/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'swagger-java-client 1.0.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'swagger-java-client 1.0.0 API'
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client.auth
+io.swagger.client.auth
+io.swagger.client.auth
+io.swagger.client.auth
+io.swagger.client.auth
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client
+io.swagger.client.api
+io.swagger.client
+io.swagger.client
+/Users/sifanwei/.m2/repository/io/swagger/core/v3/swagger-annotations/2.0.0/swagger-annotations-2.0.0.jar = 1522077293000
+/Users/sifanwei/.m2/repository/com/squareup/okhttp/okhttp/2.7.5/okhttp-2.7.5.jar = 1456500233000
+/Users/sifanwei/.m2/repository/com/squareup/okio/okio/1.6.0/okio-1.6.0.jar = 1440547193000
+/Users/sifanwei/.m2/repository/com/squareup/okhttp/logging-interceptor/2.7.5/logging-interceptor-2.7.5.jar = 1456500338000
+/Users/sifanwei/.m2/repository/com/google/code/gson/gson/2.8.1/gson-2.8.1.jar = 1496194739000
+/Users/sifanwei/.m2/repository/io/gsonfire/gson-fire/1.8.3/gson-fire-1.8.3.jar = 1523143052000
+/Users/sifanwei/.m2/repository/org/threeten/threetenbp/1.3.5/threetenbp-1.3.5.jar = 1496838034000
+/Users/sifanwei/.m2/repository/javax/xml/bind/jaxb-api/2.2.11/jaxb-api-2.2.11.jar = 1378462269000
+/Users/sifanwei/.m2/repository/com/sun/xml/bind/jaxb-core/2.2.11/jaxb-core-2.2.11.jar = 1412939380000
+/Users/sifanwei/.m2/repository/com/sun/xml/bind/jaxb-impl/2.2.11/jaxb-impl-2.2.11.jar = 1412939507000
+/Users/sifanwei/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar = 1256322270000
+/Users/sifanwei/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar = 1696800756637
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/src/main/java/.DS_Store = 1696887965427
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/src/main/java = 1696887965425
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/generated-sources/annotations = 1696897642461
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/tag-search-index.js = 1696906519479
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/overview-tree.html = 1696906519417
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/module-search-index.js = 1696906519475
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/index.html = 1696906519423
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/package-search-index.js = 1696906519475
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/link.svg = 1696906519583
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/serialized-form.html = 1696906519107
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/index-all.html = 1696906519555
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/allpackages-index.html = 1696906519473
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/member-search-index.js = 1696906519478
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/copy.svg = 1696906519582
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/script.js = 1696906519580
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/stylesheet.css = 1696906519578
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/search-page.js = 1696906519587
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/overview-summary.html = 1696906519561
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/help-doc.html = 1696906519573
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/element-list = 1696906518913
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/search.html = 1696906519558
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/allclasses-index.html = 1696906519467
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/type-search-index.js = 1696906519476
+/Users/sifanwei/Desktop/CS 6650/A1/AlbumStoreAPI_client/target/apidocs/search.js = 1696906519586

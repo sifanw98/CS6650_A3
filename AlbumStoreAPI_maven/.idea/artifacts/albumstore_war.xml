@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="albumstore:war">
+    <output-path>$PROJECT_DIR$/albumstore/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>albumstore</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="albumstore.war">
+      <element id="artifact" artifact-name="albumstore:war exploded" />
+    </root>
+  </artifact>
+</component>

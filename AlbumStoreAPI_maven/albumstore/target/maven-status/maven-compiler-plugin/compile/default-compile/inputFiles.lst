@@ -1,0 +1,10 @@
+/Users/sifanwei/Desktop/A3/AlbumStoreAPI_maven/albumstore/src/main/java/com/albumstore/servlet/AlbumApiServlet.java
+/Users/sifanwei/Desktop/A3/AlbumStoreAPI_maven/albumstore/src/main/java/com/albumstore/bean/ApiResponse.java
+/Users/sifanwei/Desktop/A3/AlbumStoreAPI_maven/albumstore/src/main/java/com/albumstore/util/JSONUtility.java
+/Users/sifanwei/Desktop/A3/AlbumStoreAPI_maven/albumstore/src/main/java/com/albumstore/util/DatabaseUtil.java
+/Users/sifanwei/Desktop/A3/AlbumStoreAPI_maven/albumstore/src/main/java/com/albumstore/bean/ErrorMsg.java
+/Users/sifanwei/Desktop/A3/AlbumStoreAPI_maven/albumstore/src/main/java/com/albumstore/bean/Album.java
+/Users/sifanwei/Desktop/A3/AlbumStoreAPI_maven/albumstore/src/main/java/com/albumstore/bean/ImageMetaData.java
+/Users/sifanwei/Desktop/A3/AlbumStoreAPI_maven/albumstore/src/main/java/com/albumstore/config/RabbitMQConfig.java
+/Users/sifanwei/Desktop/A3/AlbumStoreAPI_maven/albumstore/src/main/java/com/albumstore/util/ReviewConsumer.java
+/Users/sifanwei/Desktop/A3/AlbumStoreAPI_maven/albumstore/src/main/java/com/albumstore/bean/Review.java
